@@ -1,0 +1,6 @@
+[submodule "include/classes/pushover"]
+	path = include/classes/pushover
+	url = git@github.com:kryap/php-pushover.git
+[submodule "include/classes/twitter"]
+	path = include/classes/twitter
+	url = git@github.com:dg/twitter-php.git
